@@ -1,0 +1,28 @@
+.container{
+    display: contents;
+}
+.eg1{
+     border: 2px solid #000000;
+     width: 1643px
+     height: 661px
+     top: 47px
+    left: 38px
+    background: #000000;
+    padding: 10px
+}
+.eg2{
+    width: 1051px
+    height: 894px
+    top: 742px
+    left: 58px
+     
+}
+.eg3{
+    width: 1623px
+height: 469px
+top: 1795px
+left: 58px
+}
+.eg2>image{
+    background-size: 100% 100%;
+}
